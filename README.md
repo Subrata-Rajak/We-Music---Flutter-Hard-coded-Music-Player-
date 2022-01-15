@@ -1,6 +1,6 @@
-# we_music
+# We Music
 
-A new Flutter project.
+A new Flutter project. A Flutter Hard Coded Music Player includes 8 songs.
 
 ## Getting Started
 
